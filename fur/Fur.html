@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+</head>
+<style>
+    html, body {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+    }
+</style>
+<body>
+<script src="https://cdn.rawgit.com/arose/ngl/v2.0.0-dev.32/dist/ngl.js"></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+var stage = new NGL.Stage("viewport");
+  stage.loadFile("https://alphafold.ebi.ac.uk/files/AF-P0A9A9-F1-model_v2.pdb").then(
+    function (o) {
+      $.getJSON("feats.json", function (json) {
+          console.log(json)
+          crtn_feat_clrs = []
+          for (let i = 0; i < Object.keys(json["feature"]).length; i++) {
+            console.log(json["feature"][i])
+            if (
+              json["feature"][i] == "DNA binding region"
+               | json["feature"][i] == "Dimerization region"
+            ) {
+              console.log(json["color"][i])
+              crtn_feat_clrs.push([json["color"][i], json.start[i] + '-' + json.end[i]])
+            }
+          }
+          let schemeId = NGL.ColormakerRegistry.addSelectionScheme(crtn_feat_clrs)
+          o.addRepresentation("cartoon", {color: schemeId})
+
+          for (let i = 0; i < Object.keys(json["feature"]).length; i++) {
+              if (
+                json["feature"][i] !== "Chain"
+                && json["feature"][i] !== "DNA binding region"
+                && json["feature"][i] !== "Dimerization region"
+              )
+              {
+                  o.addRepresentation("surface", {
+                      visible: true,
+                      color: json["color"][i],
+                      opacity: 0.5,
+                      opaqueBack: false,
+                      sele: json.start[i] + '-' + json.end[i],
+                  })
+              }
+          }
+      })
+      $.getJSON("vars.json", function (json) {
+          // console.log(json)
+          for (let i = 0; i < Object.keys(json["residue pos"]).length; i++) {
+            if (json["color"][i] != "red") {
+              selection = json["residue pos"][i] + '.CA'
+              o.addRepresentation("spacefill", {
+                  opacity: 1,
+                  radius: 0.5,
+                  color: json["color"][i],
+                  sele: selection,
+              })
+              o.addRepresentation("spacefill", {
+                  opacity: 0.5,
+                  opaqueBack: false,
+                  radius: json["mutation count"][i]/3,
+                  color: json["color"][i],
+                  sele: selection,
+              })
+
+              // The below is for a custom text label per sphere.
+              // Can't simply use the AA position since off by one according to breseq mutation positions.
+              // The positions used to place the mutations are appropriate for the structures.
+              // The positions used to label the mutations are those of breseq mutations.
+              var selectionObject = new NGL.Selection(selection);
+              var labelText = {};
+              var structure = o.structure;
+              structure.eachAtom(function(atomProxy) {
+                  labelText[atomProxy.index] = (json["residue pos"][i]).toString();
+              }, selectionObject);
+
+              o.addRepresentation("label", {
+                  sele: selection,
+                  color: "black",
+                  radius: 7,
+                  // showBackground: true,
+                  // backgroundColor: "white",
+                  // labelType: "format",
+                  // labelFormat: "%(resname)s %(resno)s",
+                  labelType: 'text',
+                  labelText: labelText,
+              })
+            }
+          }
+      })
+      o.autoView()
+  })
+  stage.setSpin(false)
+  stage.setParameters({backgroundColor: "white"})
+})
+</script>
+<div id="viewport" style="width:100%; height:100%;"></div>
+</body>
+</html>

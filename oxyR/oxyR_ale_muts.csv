@@ -1,0 +1,72 @@
+AA pos,mutation type,mutation effect,mutation source,AA ref seq,AA seq change,mutation count,mutation effect color,selection pressure color,name
+8,SUB,nonsynonymous substitution,recoded stop codon,Y,C,1,#DD8452,#A8786E,SUB Y8C
+13,SUB,nonsynonymous substitution,recoded stop codon,A,V,1,#DD8452,#A8786E,SUB A13V
+29,SUB,nonsynonymous substitution,recoded stop codon,Q,R,1,#DD8452,#A8786E,SUB Q29R
+29,SUB,nonsynonymous substitution,unpublished,Q,R,1,#DD8452,#AD8BC9,SUB Q29R
+31,SUB,nonsynonymous substitution,recoded stop codon,T,M,1,#DD8452,#A8786E,SUB T31M
+31,SUB,nonsynonymous substitution,unpublished,T,M,1,#DD8452,#AD8BC9,SUB T31M
+33,SUB,nonsynonymous substitution,recoded stop codon,S,G,2,#DD8452,#A8786E,SUB S33G
+33,SUB,nonsynonymous substitution,unpublished,S,G,2,#DD8452,#AD8BC9,SUB S33G
+35,SUB,truncation,recoded stop codon,Q,*,2,#C44E52,#A8786E,SUB Q35*
+35,SUB,truncation,unpublished,Q,*,1,#C44E52,#AD8BC9,SUB Q35*
+43,SUB,nonsynonymous substitution,recoded stop codon,L,P,1,#DD8452,#A8786E,SUB L43P
+43,SUB,nonsynonymous substitution,unpublished,L,P,1,#DD8452,#AD8BC9,SUB L43P
+96,DEL,truncation,recoded stop codon,,,1,#C44E52,#A8786E,DEL 96
+96,DEL,truncation,unpublished,,,1,#C44E52,#AD8BC9,DEL 96
+97,SUB,nonsynonymous substitution,Brucella melitensis pgi,L,W,1,#DD8452,#797979,SUB L97W
+98,SUB,nonsynonymous substitution,Brucella melitensis pgi,I,M,1,#DD8452,#797979,SUB I98M
+99,SUB,nonsynonymous substitution,paraquat,P,L,1,#DD8452,#6DCCDA,SUB P99L
+100,SUB,nonsynonymous substitution,Pyrobaculum aerophilum tpi,T,A,3,#DD8452,#ED665D,SUB T100A
+100,SUB,nonsynonymous substitution,Pyrobaculum aerophilum tpi,T,I,1,#DD8452,#ED665D,SUB T100I
+100,SUB,nonsynonymous substitution,Pyrobaculum aerophilum tpi,T,K,1,#DD8452,#ED665D,SUB T100K
+106,SUB,nonsynonymous substitution,unpublished,L,I,1,#DD8452,#AD8BC9,SUB L106I
+107,SUB,nonsynonymous substitution,FeSO4,P,L,1,#DD8452,#729ECE,SUB P107L
+107,SUB,nonsynonymous substitution,unpublished,P,L,1,#DD8452,#AD8BC9,SUB P107L
+107,SUB,nonsynonymous substitution,unpublished,P,R,10,#DD8452,#AD8BC9,SUB P107R
+113,SUB,nonsynonymous substitution,FeSO4,L,Q,1,#DD8452,#729ECE,SUB L113Q
+114,SUB,nonsynonymous substitution,Pyrobaculum aerophilum pgi,H,P,1,#DD8452,#67BF5C,SUB H114P
+145,DEL,deletion,paraquat,,,1,#937860,#6DCCDA,DEL 145
+146,DEL,deletion,paraquat,,,1,#937860,#6DCCDA,DEL 146
+147,SUB,nonsynonymous substitution,Pyrobaculum aerophilum pgi,A,E,1,#DD8452,#67BF5C,SUB A147E
+147,SUB,nonsynonymous substitution,unpublished,A,E,2,#DD8452,#AD8BC9,SUB A147E
+163,SUB,nonsynonymous substitution,unpublished,E,Q,1,#DD8452,#AD8BC9,SUB E163Q
+165,SUB,nonsynonymous substitution,Homo sapiens tpi,M,R,1,#DD8452,#FF9E4A,SUB M165R
+186,SUB,nonsynonymous substitution,Brucella melitensis pgi,L,R,1,#DD8452,#797979,SUB L186R
+186,SUB,nonsynonymous substitution,unpublished,L,Q,1,#DD8452,#AD8BC9,SUB L186Q
+186,SUB,nonsynonymous substitution,unpublished,L,R,1,#DD8452,#AD8BC9,SUB L186R
+191,SUB,nonsynonymous substitution,Pyrobaculum aerophilum pgi,L,R,1,#DD8452,#67BF5C,SUB L191R
+191,SUB,nonsynonymous substitution,unpublished,L,Q,1,#DD8452,#AD8BC9,SUB L191Q
+193,SUB,nonsynonymous substitution,Pyrobaculum aerophilum tpi,M,I,1,#DD8452,#ED665D,SUB M193I
+193,SUB,nonsynonymous substitution,unpublished,M,I,2,#DD8452,#AD8BC9,SUB M193I
+194,SUB,nonsynonymous substitution,unpublished,L,Q,2,#DD8452,#AD8BC9,SUB L194Q
+197,SUB,nonsynonymous substitution,paraquat,G,V,1,#DD8452,#6DCCDA,SUB G197V
+198,SUB,nonsynonymous substitution,Brucella melitensis pgi,H,Y,1,#DD8452,#797979,SUB H198Y
+199,SUB,nonsynonymous substitution,Pyrobaculum aerophilum pgi,C,F,1,#DD8452,#67BF5C,SUB C199F
+199,SUB,nonsynonymous substitution,unpublished,C,G,1,#DD8452,#AD8BC9,SUB C199G
+200,SUB,nonsynonymous substitution,unpublished,L,S,1,#DD8452,#AD8BC9,SUB L200S
+200,SUB,nonsynonymous substitution,unpublished,L,V,2,#DD8452,#AD8BC9,SUB L200V
+201,SUB,nonsynonymous substitution,Pyrobaculum aerophilum pgi,R,C,1,#DD8452,#67BF5C,SUB R201C
+201,SUB,nonsynonymous substitution,unpublished,R,P,1,#DD8452,#AD8BC9,SUB R201P
+204,SUB,nonsynonymous substitution,unpublished,A,E,1,#DD8452,#AD8BC9,SUB A204E
+208,SUB,nonsynonymous substitution,FeSO4,C,Y,1,#DD8452,#729ECE,SUB C208Y
+211,SUB,nonsynonymous substitution,Brucella melitensis pgi,A,D,1,#DD8452,#797979,SUB A211D
+211,SUB,nonsynonymous substitution,unpublished,A,D,3,#DD8452,#AD8BC9,SUB A211D
+211,SUB,nonsynonymous substitution,unpublished,A,P,2,#DD8452,#AD8BC9,SUB A211P
+212,SUB,nonsynonymous substitution,Vibrio cholerae tpi,G,V,1,#DD8452,#D5BB67,SUB G212V
+213,SUB,nonsynonymous substitution,Brucella melitensis pgi,A,E,2,#DD8452,#797979,SUB A213E
+213,SUB,nonsynonymous substitution,FeSO4,A,P,1,#DD8452,#729ECE,SUB A213P
+213,SUB,nonsynonymous substitution,Pyrobaculum aerophilum pgi,A,E,1,#DD8452,#67BF5C,SUB A213E
+213,SUB,nonsynonymous substitution,paraquat,A,T,1,#DD8452,#6DCCDA,SUB A213T
+213,SUB,nonsynonymous substitution,unpublished,A,E,3,#DD8452,#AD8BC9,SUB A213E
+220,SUB,nonsynonymous substitution,paraquat,R,G,1,#DD8452,#6DCCDA,SUB R220G
+220,SUB,nonsynonymous substitution,unpublished,R,G,2,#DD8452,#AD8BC9,SUB R220G
+221,SUB,nonsynonymous substitution,Homo sapiens tpi,A,E,1,#DD8452,#FF9E4A,SUB A221E
+224,SUB,nonsynonymous substitution,Brucella melitensis pgi,L,Q,1,#DD8452,#797979,SUB L224Q
+224,SUB,nonsynonymous substitution,Vibrio cholerae tpi,L,Q,1,#DD8452,#D5BB67,SUB L224Q
+224,SUB,nonsynonymous substitution,unpublished,L,Q,3,#DD8452,#AD8BC9,SUB L224Q
+233,SUB,nonsynonymous substitution,Homo sapiens tpi,A,T,1,#DD8452,#FF9E4A,SUB A233T
+234,SUB,nonsynonymous substitution,unpublished,G,V,1,#DD8452,#AD8BC9,SUB G234V
+236,SUB,nonsynonymous substitution,Pyrobaculum aerophilum tpi,G,E,1,#DD8452,#ED665D,SUB G236E
+238,SUB,nonsynonymous substitution,Homo sapiens tpi,T,N,1,#DD8452,#FF9E4A,SUB T238N
+246,SUB,nonsynonymous substitution,unpublished,P,Q,1,#DD8452,#AD8BC9,SUB P246Q
+279,SUB,nonsynonymous substitution,unpublished,R,C,1,#DD8452,#AD8BC9,SUB R279C

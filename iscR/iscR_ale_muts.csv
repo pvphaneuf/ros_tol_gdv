@@ -1,0 +1,44 @@
+AA pos,mutation type,mutation effect,mutation source,AA ref seq,AA seq change,mutation count,mutation effect color,selection pressure color,name
+13,SUB,nonsynonymous substitution,paraquat,A,T,1,#DD8452,#6DCCDA,SUB A13T
+13,SUB,nonsynonymous substitution,unpublished,A,T,1,#DD8452,#AD8BC9,SUB A13T
+25,SUB,nonsynonymous substitution,unpublished,P,Q,1,#DD8452,#AD8BC9,SUB P25Q
+33,SUB,nonsynonymous substitution,unpublished,E,D,1,#DD8452,#AD8BC9,SUB E33D
+37,SUB,nonsynonymous substitution,paraquat,I,V,1,#DD8452,#6DCCDA,SUB I37V
+37,SUB,nonsynonymous substitution,unpublished,I,V,1,#DD8452,#AD8BC9,SUB I37V
+40,INS,truncation,unpublished,,,1,#C44E52,#AD8BC9,INS 40
+43,SUB,nonsynonymous substitution,unpublished,E,G,10,#DD8452,#AD8BC9,SUB E43G
+43,SUB,nonsynonymous substitution,unpublished,E,V,1,#DD8452,#AD8BC9,SUB E43V
+44,SUB,nonsynonymous substitution,unpublished,Q,K,1,#DD8452,#AD8BC9,SUB Q44K
+53,SUB,nonsynonymous substitution,unpublished,G,V,1,#DD8452,#AD8BC9,SUB G53V
+55,SUB,nonsynonymous substitution,paraquat,V,L,5,#DD8452,#6DCCDA,SUB V55L
+55,SUB,nonsynonymous substitution,unpublished,V,L,5,#DD8452,#AD8BC9,SUB V55L
+87,SUB,nonsynonymous substitution,paraquat,V,A,1,#DD8452,#6DCCDA,SUB V87A
+87,SUB,nonsynonymous substitution,unpublished,V,A,1,#DD8452,#AD8BC9,SUB V87A
+90,SUB,nonsynonymous substitution,unpublished,T,P,1,#DD8452,#AD8BC9,SUB T90P
+92,SUB,nonsynonymous substitution,unpublished,C,Y,1,#DD8452,#AD8BC9,SUB C92Y
+94,DEL,deletion,unpublished,,,1,#937860,#AD8BC9,DEL 94
+94,SUB,nonsynonymous substitution,unpublished,G,V,1,#DD8452,#AD8BC9,SUB G94V
+95,DEL,deletion,unpublished,,,1,#937860,#AD8BC9,DEL 95
+96,DEL,deletion,unpublished,,,1,#937860,#AD8BC9,DEL 96
+98,DEL,deletion,unpublished,,,2,#937860,#AD8BC9,DEL 98
+98,SUB,nonsynonymous substitution,paraquat,C,G,1,#DD8452,#6DCCDA,SUB C98G
+98,SUB,nonsynonymous substitution,unpublished,C,G,1,#DD8452,#AD8BC9,SUB C98G
+99,DEL,deletion,unpublished,,,2,#937860,#AD8BC9,DEL 99
+99,SUB,truncation,unpublished,Q,*,1,#C44E52,#AD8BC9,SUB Q99*
+100,DEL,deletion,unpublished,,,2,#937860,#AD8BC9,DEL 100
+101,DEL,deletion,unpublished,,,2,#937860,#AD8BC9,DEL 101
+101,SUB,nonsynonymous substitution,paraquat,G,D,1,#DD8452,#6DCCDA,SUB G101D
+101,SUB,nonsynonymous substitution,unpublished,G,D,1,#DD8452,#AD8BC9,SUB G101D
+104,SUB,nonsynonymous substitution,paraquat,C,S,6,#DD8452,#6DCCDA,SUB C104S
+104,SUB,nonsynonymous substitution,unpublished,C,S,7,#DD8452,#AD8BC9,SUB C104S
+106,SUB,nonsynonymous substitution,paraquat,T,P,1,#DD8452,#6DCCDA,SUB T106P
+106,SUB,nonsynonymous substitution,unpublished,T,P,3,#DD8452,#AD8BC9,SUB T106P
+106,SUB,nonsynonymous substitution,unpublished,T,S,1,#DD8452,#AD8BC9,SUB T106S
+107,SUB,nonsynonymous substitution,unpublished,H,L,2,#DD8452,#AD8BC9,SUB H107L
+113,SUB,nonsynonymous substitution,paraquat,L,F,1,#DD8452,#6DCCDA,SUB L113F
+113,SUB,nonsynonymous substitution,unpublished,L,F,3,#DD8452,#AD8BC9,SUB L113F
+114,SUB,nonsynonymous substitution,unpublished,S,I,1,#DD8452,#AD8BC9,SUB S114I
+133,DEL,truncation,unpublished,,,1,#C44E52,#AD8BC9,DEL 133
+135,SUB,nonsynonymous substitution,unpublished,V,G,1,#DD8452,#AD8BC9,SUB V135G
+147,SUB,synonymous substitution,unpublished,A,A,1,#55A868,#AD8BC9,SUB A147A
+156,SUB,synonymous substitution,unpublished,I,I,1,#55A868,#AD8BC9,SUB I156I

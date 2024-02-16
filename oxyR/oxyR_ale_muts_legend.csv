@@ -1,0 +1,13 @@
+name,fill,edge
+recoded stop codon,#A8786E,white
+unpublished,#AD8BC9,white
+Brucella melitensis pgi,#797979,white
+paraquat,#6DCCDA,white
+Pyrobaculum aerophilum tpi,#ED665D,white
+FeSO4,#729ECE,white
+Pyrobaculum aerophilum pgi,#67BF5C,white
+Homo sapiens tpi,#FF9E4A,white
+Vibrio cholerae tpi,#D5BB67,white
+nonsynonymous substitution,white,#DD8452
+truncation,white,#C44E52
+deletion,white,#937860

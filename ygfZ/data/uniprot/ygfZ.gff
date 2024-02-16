@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region P0ADE8 1 326
+P0ADE8	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9298646;Dbxref=PMID:9298646	
+P0ADE8	UniProtKB	Chain	2	326	.	.	.	ID=PRO_0000169834;Note=tRNA-modifying protein YgfZ	
+P0ADE8	UniProtKB	Binding site	27	27	.	.	.	Note=Folate;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P0ADE8	UniProtKB	Binding site	189	189	.	.	.	Note=Folate;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P0ADE8	UniProtKB	Sequence conflict	8	8	.	.	.	Note=P->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0ADE8	UniProtKB	Helix	14	16	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	19	23	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	27	34	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Helix	37	42	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	45	47	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Helix	49	51	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	57	63	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	69	78	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	81	87	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Helix	88	99	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	103	106	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	108	112	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	114	122	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Helix	125	130	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	139	141	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1NRK	
+P0ADE8	UniProtKB	Beta strand	143	146	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	149	154	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	156	158	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	160	165	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Helix	167	177	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Turn	178	180	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1NRK	
+P0ADE8	UniProtKB	Beta strand	181	184	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Helix	186	196	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Helix	203	205	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Helix	211	214	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Helix	216	218	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	224	226	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Helix	232	237	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	246	253	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	265	269	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	272	276	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	278	284	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	290	297	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	306	308	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	
+P0ADE8	UniProtKB	Beta strand	315	318	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1VLY	

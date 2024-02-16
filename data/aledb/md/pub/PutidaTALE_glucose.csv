@@ -1,0 +1,14 @@
+sample_name,clonal_or_population,tech_rep_description,media_description,carbon_source,nitrogen_source,phosphorous_source,sulfur_source,calcium_source,supplement,temperature,strain,strain_details,taxonomy_id,reseq_reference,breseq_version,reseq_date,experiment,project,person,doi
+A0 F0 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,08:46:38 19 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A37 F43 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,21:15:28 17 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A37 F126 I0 R1,population,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,12:22:33 18 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A37 F126 I2 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,11:58:33 18 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A38 F47 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,15:56:56 18 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A38 F128 I0 R1,population,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,17:40:45 18 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A38 F128 I2 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,03:04:24 18 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A39 F44 I1 R1,clonal,,M9,,,,,,,37,160507,P. putida KT2440,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,21:56:15 17 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A39 F126 I0 R1,population,,M9,,,,,,,37,160507,P. putida KT2440,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,18:18:02 17 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A39 F126 I2 R1,clonal,,M9,,,,,,,37,160507,P. putida KT2440,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,11:25:11 18 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A40 F43 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,06:49:14 18 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A40 F125 I0 R1,population,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,17:08:22 18 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A40 F125 I2 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,07:48:01 18 Feb 2020,PutidaTALE_glucose,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143

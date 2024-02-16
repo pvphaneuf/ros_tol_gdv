@@ -1,0 +1,13 @@
+A,B,C,D,E,F,Plate label,Position,on the Comment
+25,SDT_ygfZ1,FC_RNAseq_2023_2_1,HMP3427-1-1,control,,Plate4,A4,Plate4_A4
+26,SDT_ygfZ2,FC_RNAseq_2023_2_2,HMP3427-2-1,control,,Plate4,B4,Plate4_B4
+27,SDT_ygfZ3,FC_RNAseq_2023_2_3,HMP3427-3-1,control,,Plate4,C4,Plate4_C4
+28,SDT_ygfZ4,FC_RNAseq_2023_2_4,SDT495-1-1,control,,Plate4,D4,Plate4_D4
+29,SDT_ygfZ5,FC_RNAseq_2023_2_5,SDT495-2-1,control,,Plate4,E4,Plate4_E4
+30,SDT_ygfZ6,FC_RNAseq_2023_2_6,SDT495-3-1,control,,Plate4,F4,Plate4_F4
+31,SDT_ygfZ7,FC_RNAseq_2023_2_7,HMP3427-1-2,5 mM H2O2,,Plate4,A5,Plate4_A5
+32,SDT_ygfZ8,FC_RNAseq_2023_2_8,HMP3427-2-2,5 mM H2O2,,Plate4,B5,Plate4_B5
+33,SDT_ygfZ9,FC_RNAseq_2023_2_9,HMP3427-3-2,5 mM H2O2,,Plate4,C5,Plate4_C5
+34,SDT_ygfZ10,FC_RNAseq_2023_2_10,SDT495-1-2,5 mM H2O2,,Plate4,D5,Plate4_D5
+35,SDT_ygfZ11,FC_RNAseq_2023_2_11,SDT495-2-2,5 mM H2O2,,Plate4,E5,Plate4_E5
+36,SDT_ygfZ12,FC_RNAseq_2023_2_12,SDT495-3-2,5 mM H2O2,,Plate4,F5,Plate4_F5

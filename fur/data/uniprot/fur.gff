@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region P0A9A9 1 148
+P0A9A9	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17895580;Dbxref=PMID:17895580	
+P0A9A9	UniProtKB	Chain	2	148	.	.	.	ID=PRO_0000095550;Note=Ferric uptake regulation protein	
+P0A9A9	UniProtKB	Region	2	84	.	.	.	Note=DNA-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0A9A9	UniProtKB	Region	85	148	.	.	.	Note=Dimerization;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0A9A9	UniProtKB	Metal binding	33	33	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0A9A9	UniProtKB	Metal binding	81	81	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0A9A9	UniProtKB	Metal binding	87	87	.	.	.	Note=Iron;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0A9A9	UniProtKB	Metal binding	89	89	.	.	.	Note=Iron;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0A9A9	UniProtKB	Metal binding	90	90	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0A9A9	UniProtKB	Metal binding	93	93	.	.	.	Note=Zinc	
+P0A9A9	UniProtKB	Metal binding	96	96	.	.	.	Note=Zinc	
+P0A9A9	UniProtKB	Metal binding	101	101	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0A9A9	UniProtKB	Metal binding	108	108	.	.	.	Note=Iron;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0A9A9	UniProtKB	Metal binding	125	125	.	.	.	Note=Iron;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0A9A9	UniProtKB	Helix	4	10	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2FU4	
+P0A9A9	UniProtKB	Helix	17	26	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2FU4	
+P0A9A9	UniProtKB	Helix	29	31	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2FU4	
+P0A9A9	UniProtKB	Beta strand	32	34	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2FU4	
+P0A9A9	UniProtKB	Helix	36	45	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2FU4	
+P0A9A9	UniProtKB	Helix	52	64	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2FU4	
+P0A9A9	UniProtKB	Beta strand	67	72	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2FU4	
+P0A9A9	UniProtKB	Helix	74	76	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2FU4	
+P0A9A9	UniProtKB	Beta strand	78	82	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:2FU4	

@@ -1,0 +1,25 @@
+sample_name,clonal_or_population,tech_rep_description,media_description,carbon_source,nitrogen_source,phosphorous_source,sulfur_source,calcium_source,supplement,temperature,strain,strain_details,taxonomy_id,reseq_reference,breseq_version,reseq_date,experiment,project,person,doi
+A0 F0 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,05:55:59 18 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A13 F28 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,07:42:51 19 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A13 F65 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,01:20:26 19 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A13 F103 I0 R1,population,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,02:33:10 19 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A13 F103 I2 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,06:23:48 19 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A15 F27 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,09:43:41 18 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A15 F70 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,08:06:55 19 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A15 F112 I0 R1,population,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,21:28:09 18 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A15 F112 I2 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,18:30:45 17 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A17 F30 I1 R1,clonal,,M9,,,,,,,37,160561,P. putida KT2440,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,22:23:51 18 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A17 F63 I1 R1,clonal,,M9,,,,,,,37,160561,P. putida KT2440,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,07:01:27 19 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A17 F107 I0 R1,population,,M9,,,,,,,37,160561,P. putida KT2440,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,01:44:38 18 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A19 F32 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,05:19:34 18 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A19 F59 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,06:00:48 19 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A19 F119 I0 R1,population,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,23:23:23 17 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A19 F119 I2 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,22:40:01 17 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A21 F28 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,00:48:28 19 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A21 F72 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,22:28:49 17 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A21 F113 I0 R1,population,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,05:30:58 19 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A21 F113 I2 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,06:07:03 18 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A23 F30 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,15:26:48 18 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A23 F75 I1 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,21:56:30 18 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A23 F114 I0 R1,population,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,02:47:34 18 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143
+A23 F114 I2 R1,clonal,,M9,,,,,,,37,,,,/var/data/Pseudomonas_putida_KT2440.gb,0.33.1,06:12:58 19 Feb 2020,PutidaTALE_Ferulic,P. putida Hydroxycinnamic TALE,Elsayed Mohamed,10.1016/j.mec.2020.e00143

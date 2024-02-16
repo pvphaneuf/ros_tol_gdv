@@ -1,0 +1,18 @@
+AA pos,mutation type,mutation effect,mutation source,AA ref seq,AA seq change,mutation count,mutation effect color,selection pressure color,name
+27,SUB,nonsynonymous substitution,paraquat,W,C,1,#DD8452,#6DCCDA,SUB W27C
+27,SUB,nonsynonymous substitution,unpublished,W,C,1,#DD8452,#AD8BC9,SUB W27C
+29,SUB,nonsynonymous substitution,paraquat,L,R,6,#DD8452,#6DCCDA,SUB L29R
+29,SUB,nonsynonymous substitution,unpublished,L,R,1,#DD8452,#AD8BC9,SUB L29R
+46,SUB,nonsynonymous substitution,unpublished,T,I,1,#DD8452,#AD8BC9,SUB T46I
+61,SUB,synonymous substitution,unpublished,A,A,1,#55A868,#AD8BC9,SUB A61A
+107,SUB,nonsynonymous substitution,paraquat,V,E,5,#DD8452,#6DCCDA,SUB V107E
+107,SUB,nonsynonymous substitution,unpublished,V,E,1,#DD8452,#AD8BC9,SUB V107E
+108,SUB,nonsynonymous substitution,paraquat,T,P,6,#DD8452,#6DCCDA,SUB T108P
+108,SUB,nonsynonymous substitution,unpublished,T,P,1,#DD8452,#AD8BC9,SUB T108P
+119,SUB,nonsynonymous substitution,unpublished,G,C,1,#DD8452,#AD8BC9,SUB G119C
+197,SUB,nonsynonymous substitution,unpublished,G,D,1,#DD8452,#AD8BC9,SUB G197D
+221,SUB,nonsynonymous substitution,paraquat,G,R,1,#DD8452,#6DCCDA,SUB G221R
+221,SUB,nonsynonymous substitution,unpublished,G,R,1,#DD8452,#AD8BC9,SUB G221R
+221,SUB,nonsynonymous substitution,unpublished,G,V,1,#DD8452,#AD8BC9,SUB G221V
+229,SUB,nonsynonymous substitution,unpublished,Y,H,1,#DD8452,#AD8BC9,SUB Y229H
+251,SUB,nonsynonymous substitution,unpublished,L,Q,1,#DD8452,#AD8BC9,SUB L251Q

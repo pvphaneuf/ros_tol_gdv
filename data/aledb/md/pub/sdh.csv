@@ -1,0 +1,11 @@
+sample_name,clonal_or_population,tech_rep_description,media_description,carbon_source,nitrogen_source,phosphorous_source,sulfur_source,calcium_source,supplement,temperature,strain,strain_details,taxonomy_id,reseq_reference,breseq_version,reseq_date,experiment,project,person,doi
+A0 F0 I1 R1,clonal,,M9,Glucose(4),NH4Cl(1),"KH2PO4(3),Na2PO4(6.8)",MgSO4(0.24),None,,37,511145,Δpts,,/var/data/NC_000913_3.gb,0.33.1,01:41:38 29 Feb 2020,sdh,CCK,Elsayed Mohamed,
+A20 F176 I0 R1,population,,M9,Glucose(4),NH4Cl(1),"KH2PO4(3),Na2PO4(6.8)",MgSO4(0.24),None,,37,511145,Δsdh,,/var/data/NC_000913_3.gb,0.33.1,19:55:45 25 Feb 2020,sdh,CCK,Elsayed Mohamed,
+A20 F176 I1 R1,clonal,,M9,Glucose(4),NH4Cl(1),"KH2PO4(3),Na2PO4(6.8)",MgSO4(0.24),None,,37,511145,Δsdh,,/var/data/NC_000913_3.gb,0.33.1,19:45:26 28 Feb 2020,sdh,CCK,Elsayed Mohamed,
+A20 F176 I2 R1,clonal,,M9,Glucose(4),NH4Cl(1),"KH2PO4(3),Na2PO4(6.8)",MgSO4(0.24),None,,37,511145,Δsdh,,/var/data/NC_000913_3.gb,0.33.1,03:15:50 28 Feb 2020,sdh,CCK,Elsayed Mohamed,
+A22 F178 I0 R1,population,,M9,Glucose(4),NH4Cl(1),"KH2PO4(3),Na2PO4(6.8)",MgSO4(0.24),None,,37,511145,Δsdh,,/var/data/NC_000913_3.gb,0.33.1,11:23:28 27 Feb 2020,sdh,CCK,Elsayed Mohamed,
+A22 F178 I1 R1,clonal,,M9,Glucose(4),NH4Cl(1),"KH2PO4(3),Na2PO4(6.8)",MgSO4(0.24),None,,37,511145,Δsdh,,/var/data/NC_000913_3.gb,0.33.1,10:48:56 26 Feb 2020,sdh,CCK,Elsayed Mohamed,
+A22 F178 I2 R1,clonal,,M9,Glucose(4),NH4Cl(1),"KH2PO4(3),Na2PO4(6.8)",MgSO4(0.24),None,,37,511145,Δsdh,,/var/data/NC_000913_3.gb,0.33.1,00:47:12 28 Feb 2020,sdh,CCK,Elsayed Mohamed,
+A23 F176 I0 R1,population,,M9,Glucose(4),NH4Cl(1),"KH2PO4(3),Na2PO4(6.8)",MgSO4(0.24),None,,37,511145,Δsdh,,/var/data/NC_000913_3.gb,0.33.1,05:06:16 27 Feb 2020,sdh,CCK,Elsayed Mohamed,
+A23 F176 I1 R1,clonal,,M9,Glucose(4),NH4Cl(1),"KH2PO4(3),Na2PO4(6.8)",MgSO4(0.24),None,,37,511145,Δsdh,,/var/data/NC_000913_3.gb,0.33.1,17:37:08 29 Feb 2020,sdh,CCK,Elsayed Mohamed,
+A23 F176 I2 R1,clonal,,M9,Glucose(4),NH4Cl(1),"KH2PO4(3),Na2PO4(6.8)",MgSO4(0.24),None,,37,511145,Δsdh,,/var/data/NC_000913_3.gb,0.33.1,00:57:37 26 Feb 2020,sdh,CCK,Elsayed Mohamed,

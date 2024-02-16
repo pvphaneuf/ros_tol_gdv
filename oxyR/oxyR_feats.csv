@@ -1,0 +1,28 @@
+,feature,start,end,layer,color
+0,Chain,1,305,0,#4878D0
+1,Substrate binding domain,89,293,1,#6ACC64
+2,Disulfide bond region,180,259,2,#D65F5F
+3,OxyR subunit interface,252,253,3,#956CB4
+4,OxyR subunit interface,232,235,3,#956CB4
+5,OxyR subunit interface,228,230,3,#956CB4
+6,OxyR subunit interface,225,226,3,#956CB4
+7,OxyR subunit interface,221,223,3,#956CB4
+8,OxyR subunit interface,219,219,3,#956CB4
+9,Disulfide bond region,199,208,2,#D65F5F
+10,Modified residue,199,199,4,#8C613C
+13,OxyR subunit interface,172,172,3,#956CB4
+14,OxyR subunit interface,170,170,3,#956CB4
+15,OxyR subunit interface,120,126,3,#956CB4
+16,OxyR subunit interface,114,114,3,#956CB4
+17,OxyR subunit interface,110,111,3,#956CB4
+18,OxyR subunit interface,106,107,3,#956CB4
+19,OxyR subunit interface,103,103,3,#956CB4
+20,OxyR subunit interface,94,94,3,#956CB4
+21,DNA binding domain,1,86,5,#DC7EC0
+22,HTH domain,1,58,6,#797979
+25,OxyR subunit interface,110,110,3,#956CB4
+27,OxyR subunit interface,122,126,3,#956CB4
+29,OxyR subunit interface,222,223,3,#956CB4
+30,OxyR subunit interface,226,226,3,#956CB4
+31,OxyR subunit interface,229,230,3,#956CB4
+32,OxyR subunit interface,232,233,3,#956CB4

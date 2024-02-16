@@ -1,0 +1,2 @@
+sample_name,clonal_or_population,tech_rep_description,media_description,carbon_source,nitrogen_source,phosphorous_source,sulfur_source,calcium_source,supplement,temperature,strain,strain_details,taxonomy_id,reseq_reference,breseq_version,reseq_date,experiment,project,person,doi
+A1 F1 I1 R1,clonal,,other,methanol(15mM),(NH4)2SO4(5g/L),"K2HPO4(25.3g/L),NaH2PO4(22.5g/L)",MgSO4(0.96g/L),,,30,272630,Methylobacterium extorquens AM1,,CP001510_1.gb,0.32.0,13:09:08 05 Mar 2018,Epistasis2011,Epistasis,CJ Marx,10.1126/science.1203799

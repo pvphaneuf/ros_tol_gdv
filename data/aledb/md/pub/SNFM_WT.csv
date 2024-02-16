@@ -1,0 +1,27 @@
+sample_name,clonal_or_population,tech_rep_description,media_description,carbon_source,nitrogen_source,phosphorous_source,sulfur_source,calcium_source,supplement,temperature,strain,strain_details,taxonomy_id,reseq_reference,breseq_version,reseq_date,experiment,project,person,doi
+A0 F0 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,13:52:25 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A0 F0 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,00:26:23 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A1 F16 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,01:51:25 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A1 F16 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,02:46:47 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A1 F41 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,04:34:45 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A1 F41 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,07:52:45 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A1 F56 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,05:38:56 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A1 F56 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,06:51:27 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A1 F70 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,15:27:52 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A1 F70 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,09:18:09 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A3 F18 I0 R2,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,08:03:51 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A3 F18 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,10:49:28 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A3 F44 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,15:55:17 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A3 F44 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,06:43:22 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A3 F60 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,06:20:31 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A3 F60 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,18:02:37 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A3 F75 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,17:29:45 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A3 F75 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,08:50:49 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A5 F18 I0 R2,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,17:58:30 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A5 F18 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,02:00:46 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A5 F43 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,09:38:38 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A5 F43 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,16:54:37 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A5 F58 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,10:04:11 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A5 F58 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,18:06:23 23 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A5 F71 I0 R1,population,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,10:36:00 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19
+A5 F71 I1 R1,clonal,,MHB,,,,,,,37,451516,S. aureus TCH1516,,/var/data/TCH1516_HM_ALE_referencePlusProkka_Jan2019.gbk,0.33.1,06:47:48 24 May 2019,SNFM_WT,SNFM,Michael Salazar,10.1128/mSystems.00828-19

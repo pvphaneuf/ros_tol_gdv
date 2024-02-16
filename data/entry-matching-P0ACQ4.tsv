@@ -1,0 +1,17 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms	Protein Accession	Protein Length	Matches
+cd08411	The C-terminal substrate-binding domain of the LysR-type transcriptional regulator OxyR, a member of the type 2 periplasmic binding fold protein superfamily	cdd	domain				p0acq4	305	91..289
+G3DSA:1.10.10.10	Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain	cathgene3d	homologous_superfamily	IPR036388			p0acq4	305	1..84
+G3DSA:3.40.190.10	Periplasmic binding protein-like II	cathgene3d	homologous_superfamily				p0acq4	305	91..163
+G3DSA:3.40.190.10	Periplasmic binding protein-like II	cathgene3d	homologous_superfamily				p0acq4	305	268..284
+G3DSA:3.40.190.10	Periplasmic binding protein-like II	cathgene3d	homologous_superfamily				p0acq4	305	164..267
+IPR000847	Transcription regulator HTH, LysR	interpro	domain		PS50931,PF00126,PR00039	GO:0003700,GO:0006355	p0acq4	305	1..61
+IPR005119	LysR, substrate-binding	interpro	domain		PF03466		p0acq4	305	89..293
+IPR036388	Winged helix-like DNA-binding domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.10.10		p0acq4	305	1..84
+IPR036390	Winged helix DNA-binding domain superfamily	interpro	homologous_superfamily		SSF46785		p0acq4	305	1..86
+PF00126	Bacterial regulatory helix-turn-helix protein, lysR family	pfam	domain	IPR000847			p0acq4	305	3..61
+PF03466	LysR substrate binding domain	pfam	family	IPR005119			p0acq4	305	89..293
+PR00039	HTHLYSR	prints	domain	IPR000847			p0acq4	305	18..50
+PS50931	LysR-type HTH domain profile	profile	domain	IPR000847			p0acq4	305	1..58
+PTHR30346	TRANSCRIPTIONAL DUAL REGULATOR HCAR-RELATED	panther	family				p0acq4	305	1..297
+PTHR30346:SF26	HYDROGEN PEROXIDE-INDUCIBLE GENES ACTIVATOR	panther	family				p0acq4	305	1..297
+SSF46785	"""Winged helix"" DNA-binding domain"	ssf	homologous_superfamily	IPR036390			p0acq4	305	1..86

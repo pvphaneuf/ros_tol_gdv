@@ -1,0 +1,16 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms	Protein Accession	Protein Length	Matches
+G3DSA:1.10.10.10	Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain	cathgene3d	homologous_superfamily	IPR036388			p0agk8	162	1..144
+IPR000944	Transcription regulator Rrf2	interpro	family		PS51197,PF02082,TIGR00738,PTHR33221		p0agk8	162	1..148
+IPR010242	Transcription factor HTH,  IscR	interpro	family		MF_01176,TIGR02010	GO:0003690,GO:0003700,GO:0006355	p0agk8	162	1..162
+IPR030489	Transcription regulator Rrf2-type, conserved site	interpro	conserved_site		PS01332		p0agk8	162	49..67
+IPR036388	Winged helix-like DNA-binding domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.10.10		p0agk8	162	1..144
+IPR036390	Winged helix DNA-binding domain superfamily	interpro	homologous_superfamily		SSF46785		p0agk8	162	2..133
+MF_01176	HTH-type transcriptional regulator IscR [iscR]	hamap	family	IPR010242			p0agk8	162	1..162
+PF02082	Iron-dependent Transcriptional regulator	pfam	domain	IPR000944			p0agk8	162	3..132
+PS01332	Rrf2-type HTH domain signature	prosite	conserved_site	IPR030489			p0agk8	162	49..67
+PS51197	Rrf2-type HTH domain profile	profile	domain	IPR000944			p0agk8	162	2..131
+PTHR33221	WINGED HELIX-TURN-HELIX TRANSCRIPTIONAL REGULATOR, RRF2 FAMILY	panther	family	IPR000944			p0agk8	162	1..148
+PTHR33221:SF10	HTH-TYPE TRANSCRIPTIONAL REGULATOR ISCR	panther	family				p0agk8	162	1..148
+SSF46785	"Winged helix" DNA-binding domain	ssf	homologous_superfamily	IPR036390			p0agk8	162	2..133
+TIGR00738	Rrf2 family protein	tigrfams	family	IPR000944			p0agk8	162	1..131
+TIGR02010	iron-sulfur cluster assembly transcription factor IscR	tigrfams	family	IPR010242			p0agk8	162	1..134

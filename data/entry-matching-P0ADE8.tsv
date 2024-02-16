@@ -1,0 +1,13 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms	Protein Accession	Protein Length	Matches
+G3DSA:3.30.70.1400	Aminomethyltransferase beta-barrel domains	cathgene3d	homologous_superfamily				p0ade8	326	27..113
+IPR006222	Aminomethyltransferase, folate-binding domain	interpro	domain		PF01571		p0ade8	326	31..135
+IPR017703	YgfZ/GcvT conserved site	interpro	conserved_site		TIGR03317		p0ade8	326	187..251
+IPR023758	tRNA-modifying protein YgfZ	interpro	family		MF_01175	GO:0005542,GO:0009451	p0ade8	326	1..321
+IPR029043	Glycine cleavage T-protein/YgfZ, C-terminal	interpro	homologous_superfamily		SSF101790		p0ade8	326	244..325
+IPR045179	YgfZ/GcvT	interpro	family		PTHR22602		p0ade8	326	17..299
+MF_01175	tRNA-modifying protein YgfZ [ygfZ]	hamap	family	IPR023758			p0ade8	326	1..321
+PF01571	Aminomethyltransferase folate-binding domain	pfam	domain	IPR006222			p0ade8	326	31..135
+PTHR22602	UNCHARACTERIZED	panther	family	IPR045179			p0ade8	326	17..299
+SSF101790	Aminomethyltransferase beta-barrel domain	ssf	homologous_superfamily	IPR029043			p0ade8	326	244..325
+SSF103025	Folate-binding domain	ssf	homologous_superfamily				p0ade8	326	6..242
+TIGR03317	folate-binding protein YgfZ	tigrfams	family	IPR017703			p0ade8	326	187..251

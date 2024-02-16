@@ -1,0 +1,33 @@
+,feature,start,end,layer,color
+0,Chain,2,326,0,#7F3C8D
+1,"Glycine cleavage T-protein/YgfZ, C-terminal",244,325,1,#11A579
+2,Folate-binding domain,6,242,2,#3969AC
+3,Folate binding site,189,189,3,#F2B701
+4,Aminomethyltransferase folate-binding domain,31,135,4,#E73F74
+5,Folate binding site,27,27,3,#F2B701
+6,GcvT family signature motif,187,251,5,#80BA5A
+7,Acetate binding site,27,27,6,#E68310
+8,Acetate binding site,74,74,6,#E68310
+9,Acetate binding site,162,162,6,#E68310
+10,Acetate binding site,189,189,6,#E68310
+11,Acetate binding site,193,193,6,#E68310
+12,Ca binding site,286,286,7,#008695
+13,Cl binding site,68,68,8,#CF1C90
+14,Cl binding site,209,210,8,#CF1C90
+15,Cl binding site,246,246,8,#CF1C90
+16,Ethandiol binding site,16,16,9,#F97B72
+17,Ethandiol binding site,23,25,9,#F97B72
+18,Ethandiol binding site,38,38,9,#F97B72
+19,Ethandiol binding site,50,50,9,#F97B72
+20,Ethandiol binding site,99,99,9,#F97B72
+21,Ethandiol binding site,107,109,9,#F97B72
+22,Ethandiol binding site,116,117,9,#F97B72
+23,Ethandiol binding site,260,260,9,#F97B72
+24,SO4 binding site,27,27,10,#A5AA99
+25,SO4 binding site,74,74,10,#A5AA99
+26,SO4 binding site,79,79,10,#A5AA99
+27,SO4 binding site,145,145,10,#A5AA99
+28,SO4 binding site,154,154,10,#A5AA99
+29,SO4 binding site,162,162,10,#A5AA99
+30,SO4 binding site,189,189,10,#A5AA99
+31,SO4 binding site,193,193,10,#A5AA99

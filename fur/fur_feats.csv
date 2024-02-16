@@ -1,0 +1,44 @@
+,feature,start,end,layer,color
+0,Dimerization region,85,148,0,#4878D0
+1,Chain,2,148,1,#EE854A
+2,Fe binding site,125,125,2,#6ACC64
+3,Fe binding site,108,108,2,#6ACC64
+4,Zn binding site,101,101,3,#D65F5F
+5,Zn binding site,96,96,3,#D65F5F
+6,Zn binding site,93,93,3,#D65F5F
+7,Zn binding site,90,90,3,#D65F5F
+8,Fe binding site,89,89,2,#6ACC64
+9,Fe binding site,87,87,2,#6ACC64
+10,DNA binding region,2,84,4,#956CB4
+11,Zn binding site,81,81,3,#D65F5F
+12,subunit interface,78,78,5,#8C613C
+13,subunit interface,72,76,5,#8C613C
+14,subunit interface,70,70,5,#8C613C
+15,subunit interface,63,64,5,#8C613C
+16,subunit interface,60,60,5,#8C613C
+17,subunit interface,56,57,5,#8C613C
+18,subunit interface,52,53,5,#8C613C
+19,Zn binding site,33,33,3,#D65F5F
+20,subunit interface,92,94,5,#8C613C
+21,subunit interface,110,111,5,#8C613C
+22,subunit interface,120,122,5,#8C613C
+23,subunit interface,124,132,5,#8C613C
+24,putative DNA binding helix,51,65,6,#DC7EC0
+25,Zn binding site,133,133,3,#D65F5F
+26,Cd binding site,3,3,7,#797979
+27,Cd binding site,30,30,7,#797979
+28,Cd binding site,33,33,7,#797979
+29,Cd binding site,49,49,7,#797979
+30,Cd binding site,63,64,7,#797979
+31,Cd binding site,71,71,7,#797979
+32,Cd binding site,74,74,7,#797979
+33,Cd binding site,81,81,7,#797979
+34,Cl binding site,10,10,8,#D5BB67
+35,Cl binding site,30,30,8,#D5BB67
+36,Cl binding site,32,33,8,#D5BB67
+37,Cl binding site,51,54,8,#D5BB67
+38,Cl binding site,71,72,8,#D5BB67
+39,Cl binding site,74,74,8,#D5BB67
+40,Cl binding site,81,81,8,#D5BB67
+41,glycerol binding site,37,38,9,#82C6E2
+42,glycerol binding site,41,41,9,#82C6E2

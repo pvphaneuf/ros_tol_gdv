@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region P0ACQ4 1 305
+P0ACQ4	UniProtKB	Chain	1	305	.	.	.	ID=PRO_0000105728;Note=Hydrogen peroxide-inducible genes activator	
+P0ACQ4	UniProtKB	Domain	1	58	.	.	.	Note=HTH lysR-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253	
+P0ACQ4	UniProtKB	DNA binding	18	37	.	.	.	Note=H-T-H motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00253	
+P0ACQ4	UniProtKB	Modified residue	199	199	.	.	.	Note=Cysteine sulfenic acid (-SOH)%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12015987;Dbxref=PMID:12015987	
+P0ACQ4	UniProtKB	Modified residue	199	199	.	.	.	Note=S-glutathionyl cysteine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12015987;Dbxref=PMID:12015987	
+P0ACQ4	UniProtKB	Modified residue	199	199	.	.	.	Note=S-nitrosocysteine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12015987;Dbxref=PMID:12015987	
+P0ACQ4	UniProtKB	Disulfide bond	180	259	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12015987;Dbxref=PMID:12015987	
+P0ACQ4	UniProtKB	Disulfide bond	199	208	.	.	.	Note=Alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9497290;Dbxref=PMID:9497290	
+P0ACQ4	UniProtKB	Mutagenesis	199	199	.	.	.	Note=No activation following redox signaling. C->S%2CA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9497290;Dbxref=PMID:9497290	
+P0ACQ4	UniProtKB	Mutagenesis	208	208	.	.	.	Note=No activation following redox signaling. C->S%2CA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9497290;Dbxref=PMID:9497290	
+P0ACQ4	UniProtKB	Sequence conflict	154	154	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0ACQ4	UniProtKB	Sequence conflict	249	249	.	.	.	Note=R->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0ACQ4	UniProtKB	Beta strand	91	97	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Turn	99	101	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Helix	102	116	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Beta strand	120	126	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Helix	129	137	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Beta strand	142	147	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Helix	150	152	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Beta strand	155	170	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Helix	174	177	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Helix	183	186	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Beta strand	189	192	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Turn	195	198	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Helix	201	203	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I69	
+P0ACQ4	UniProtKB	Beta strand	213	216	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Turn	218	221	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Helix	224	232	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Beta strand	237	241	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Helix	242	244	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Beta strand	247	251	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Beta strand	254	257	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Beta strand	259	262	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Beta strand	265	272	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Helix	279	293	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	
+P0ACQ4	UniProtKB	Turn	294	297	.	.	.	Ontology_term=ECO:0007829;evidence=ECO:0007829|PDB:1I6A	

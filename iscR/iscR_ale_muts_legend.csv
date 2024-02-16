@@ -1,0 +1,7 @@
+name,fill,edge
+paraquat,#6DCCDA,white
+unpublished,#AD8BC9,white
+nonsynonymous substitution,white,#DD8452
+truncation,white,#C44E52
+deletion,white,#937860
+synonymous substitution,white,#55A868

@@ -1,0 +1,5 @@
+sample_name,clonal_or_population,tech_rep_description,media_description,carbon_source,nitrogen_source,phosphorous_source,sulfur_source,calcium_source,supplement,temperature,strain,strain_details,taxonomy_id,reseq_reference,breseq_version,reseq_date,experiment,project,person,doi
+A1 F116 I1 R1,clonal,,M9,xylose(4),NH4Cl(1),"KH2PO4(3),Na2HPO4(6.8)",MgSO4(0.24),CaCl2(0.1),NaCl(0.5),37,511145,BOP27,,NC_000913_3.gb,0.26.1,22:11:23 27 Oct 2015,SSW XYL,SSW,Troy Sandberg,10.1128/AEM.00410-17
+A2 F109 I1 R1,clonal,,M9,xylose(4),NH4Cl(1),"KH2PO4(3),Na2HPO4(6.8)",MgSO4(0.24),CaCl2(0.1),NaCl(0.5),37,511145,BOP27,,NC_000913_3.gb,0.26.1,02:43:25 28 Oct 2015,SSW XYL,SSW,Troy Sandberg,10.1128/AEM.00410-17
+A3 F112 I1 R1,clonal,,M9,xylose(4),NH4Cl(1),"KH2PO4(3),Na2HPO4(6.8)",MgSO4(0.24),CaCl2(0.1),NaCl(0.5),37,511145,BOP27,,NC_000913_3.gb,0.26.1,00:15:56 28 Oct 2015,SSW XYL,SSW,Troy Sandberg,10.1128/AEM.00410-17
+A4 F113 I1 R1,clonal,,M9,xylose(4),NH4Cl(1),"KH2PO4(3),Na2HPO4(6.8)",MgSO4(0.24),CaCl2(0.1),NaCl(0.5),37,511145,BOP27,,NC_000913_3.gb,0.26.1,23:04:01 27 Oct 2015,SSW XYL,SSW,Troy Sandberg,10.1128/AEM.00410-17

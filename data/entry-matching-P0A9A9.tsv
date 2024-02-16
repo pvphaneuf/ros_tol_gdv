@@ -1,0 +1,12 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms	Protein Accession	Protein Length	Matches
+cd07153	Ferric uptake regulator(Fur) and related metalloregulatory proteins; typically iron-dependent, DNA-binding repressors and activators	cdd	domain	IPR002481			p0a9a9	148	18..133
+G3DSA:1.10.10.10	Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain	cathgene3d	homologous_superfamily	IPR036388			p0a9a9	148	1..83
+G3DSA:3.30.1490.190	G3DSA:3.30.1490.190	cathgene3d	homologous_superfamily	IPR043135			p0a9a9	148	85..142
+IPR002481	Ferric-uptake regulator	interpro	family		cd07153,PTHR33202,PF01475	GO:0003700,GO:0006355	p0a9a9	148	2..143
+IPR036388	Winged helix-like DNA-binding domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.10.10		p0a9a9	148	1..83
+IPR036390	Winged helix DNA-binding domain superfamily	interpro	homologous_superfamily		SSF46785		p0a9a9	148	6..134
+IPR043135	Ferric-uptake regulator, C-terminal domain	interpro	homologous_superfamily		G3DSA:3.30.1490.190		p0a9a9	148	85..142
+PF01475	Ferric uptake regulator family	pfam	family	IPR002481			p0a9a9	148	10..130
+PTHR33202	ZINC UPTAKE REGULATION PROTEIN	panther	family	IPR002481			p0a9a9	148	2..143
+PTHR33202:SF2	FERRIC UPTAKE REGULATION PROTEIN	panther	family				p0a9a9	148	2..143
+SSF46785	"Winged helix" DNA-binding domain	ssf	homologous_superfamily	IPR036390			p0a9a9	148	6..134

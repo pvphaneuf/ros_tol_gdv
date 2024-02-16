@@ -1,0 +1,27 @@
+,feature,start,end,layer,color
+0,Chain,1,162,0,#4878D0
+1,IscR subunit interface,132,135,1,#EE854A
+2,Rrf2-type HTH domain profile,2,131,2,#6ACC64
+3,IscR subunit interface,128,130,1,#EE854A
+4,IscR subunit interface,124,124,1,#EE854A
+5,IscR subunit interface,120,121,1,#EE854A
+6,IscR subunit interface,116,117,1,#EE854A
+7,IscR subunit interface,105,114,1,#EE854A
+8,2Fe-2S binding site,104,104,3,#D65F5F
+9,IscR subunit interface,102,103,1,#EE854A
+10,2Fe-2S binding site,98,98,3,#D65F5F
+11,2Fe-2S binding site,92,92,3,#D65F5F
+12,IscR subunit interface,80,80,1,#EE854A
+13,IscR subunit interface,76,76,1,#EE854A
+14,Rrf2-type HTH domain signature,49,67,4,#956CB4
+15,HTH DNA binding domain,28,51,5,#8C613C
+16,IscR subunit interface,33,36,1,#EE854A
+17,IscR subunit interface,19,20,1,#EE854A
+18,IscR subunit interface,15,16,1,#EE854A
+19,IscR subunit interface,11,12,1,#EE854A
+20,IscR subunit interface,7,8,1,#EE854A
+21,IscR subunit interface,1,5,1,#EE854A
+22,SO4 binding site,1,2,6,#DC7EC0
+23,SO4 binding site,8,8,6,#DC7EC0
+24,SO4 binding site,110,111,6,#DC7EC0
+25,SO4 binding site,114,114,6,#DC7EC0
